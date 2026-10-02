@@ -33,7 +33,7 @@ Quali file ho incluso nel commit e perché: helloo.c per le modifiche
 
 Come ho verificato che la versione provata sia presente su GitHub: dopo aver fatto il push ho aperto GitHub
 
-Che cosa ho osservato prima e dopo `git pull`, e perché non serve un nuovo clone:
+Che cosa ho osservato prima e dopo `git pull`, e perché non serve un nuovo clone:Prima del git pull non vedevamo le modifiche fatte da GitHub dopo invece siamo riusciti a vederle. Non serve fare un nuovo clone perché è già presente il collegamento tra terminale locale e github.
 
 ## Step 2 — Eco: prima prova
 
