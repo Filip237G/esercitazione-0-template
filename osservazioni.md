@@ -31,7 +31,7 @@ Esito dopo la modifica e spiegazione della correzione:
 
 Quali file ho incluso nel commit e perché: helloo.c per le modifiche
 
-Come ho verificato che la versione provata sia presente su GitHub:
+Come ho verificato che la versione provata sia presente su GitHub: dopo aver fatto il push ho aperto GitHub
 
 Che cosa ho osservato prima e dopo `git pull`, e perché non serve un nuovo clone:
 
