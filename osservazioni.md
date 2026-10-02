@@ -4,20 +4,24 @@ Gruppo: C2
 
 Componenti (nome, cognome e username GitHub di entrambi):Andrea Fiordelisi andreafiordelisi05, Filippo Girolami Filip237G
 
-URL del repository condiviso:
+URL del repository condiviso:https://github.com/Filip237G/esercitazione-0-template.git
 
-Chi ha usato la tastiera nello step 1 e nello step 2:
+Chi ha usato la tastiera nello step 1 e nello step 2: Ci siamo alternati in quanto abbiamo usato inizialmente due computer separati
 
 Compilate insieme le osservazioni e discutete le risposte: entrambi dovete
 saper spiegare le prove svolte.
 
 ## Step 1 — Hello World: compilazione ed esecuzione
 
-Comando di compilazione:
+Comando di compilazione: gcc -std=c17 -Wall -Wextra -Wpedantic -Werror -o hello hello.c riassunto poi con make
 
-Comando di esecuzione e risultato osservato:
 
-Che cosa ho capito su sorgente ed eseguibile:
+Comando di esecuzione e risultato osservato:./hello
+Si è osservato nel terminale:
+Hello, computational physics!
+
+
+Che cosa ho capito su sorgente ed eseguibile: Sorgente è il file.c che modifichiamo direttamente da emacs e che va compilato per renderlo eseguibile
 
 Output richiesto e comportamento del programma prima della modifica:
 
@@ -25,7 +29,7 @@ Esito dopo la modifica e spiegazione della correzione:
 
 ## Step 1 — Git
 
-Quali file ho incluso nel commit e perché:
+Quali file ho incluso nel commit e perché: helloo.c per le modifiche
 
 Come ho verificato che la versione provata sia presente su GitHub:
 
