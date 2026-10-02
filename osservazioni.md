@@ -1,8 +1,8 @@
 # Osservazioni — Esercitazione 0
 
-Gruppo:
+Gruppo: C2
 
-Componenti (nome, cognome e username GitHub di entrambi):
+Componenti (nome, cognome e username GitHub di entrambi):Andrea Fiordelisi andreafiordelisi05, Filippo Girolami Filip237G
 
 URL del repository condiviso:
 
